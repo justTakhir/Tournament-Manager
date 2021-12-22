@@ -106,36 +106,32 @@ namespace TournamentManager
             return new TournamentTable(groups);
         }
 
-        private TournamentTable OrganizeLastRounds(TournamentTable table, int countOfGroups, int k, int numOfAddedRound)
+        private TournamentTable OrganizeLastRounds(TournamentTable table, int countOfGroups, int k, int index)
         {
             // надо узнать максимальное число челов в одном кольце - это собственно, число групп разделить на к
-            var groups = new List<Group>();
-            var lastGroup = new List<Player>(); //здесь, так как могут быть игроки из разных колец
+            var countOfFullOneRingGroup = countOfGroups / k;
+            var newIndex = index % k;
+            
+            var rings = new List<Group>();
             for (int i = 0; i < k; i++) // обходим каждое кольцо
             {
-                var tmpPlayers = new List<Player>();
-                var index = 0;
-                for (int j = index; j < countOfGroups; j++)
-                {
-                    tmpPlayers.Add(table.Groups[j].Players[i]);
-                    if (tmpPlayers.Count == k)
-                    {
-                        index = j;
-                        groups.Add(new Group(tmpPlayers));
-                        break;
-                    }
+                var ring = new List<Player>();
+                for (int j = 0; j < countOfGroups; j++)
+                { 
+                    ring.Add(table.Groups[j].Players[i]);
                 }
 
-                var countOfFullOneRingGroup = countOfGroups / k;
-                var nigger = numOfAddedRound % k;
+                
+                rings.Add(new Group(ring));
             }
 
-            if (numOfAddedRound > 0)
-            {
-                //swap players from one ring
+            var nigga = new List<TournamentTable>();
+            foreach (var ring in rings)
+            {//
+                nigga.Add(CreateTableByRoundRobin(ring.Players, k, newIndex));
             }
 
-            return new TournamentTable(groups);
+            return new TournamentTable(rings);//parasha
         }
 
         private TournamentTable DeleteNullPlayers(TournamentTable table)
