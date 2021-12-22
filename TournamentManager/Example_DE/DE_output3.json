@@ -1,0 +1,40 @@
+{
+  "Table": null,
+  "DoubleTable": {
+    "Top": {
+      "Groups": [
+        {
+          "Players": [
+            {
+              "Id": 8,
+              "Name": "name8",
+              "Loses": 0,
+              "SwissScore": 0
+            }
+          ]
+        }
+      ]
+    },
+    "Bottom": {
+      "Groups": [
+        {
+          "Players": [
+            {
+              "Id": 3,
+              "Name": "name3",
+              "Loses": 1,
+              "SwissScore": 0
+            },
+            {
+              "Id": 7,
+              "Name": "name7",
+              "Loses": 1,
+              "SwissScore": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "TournamentSystem": "DE"
+}

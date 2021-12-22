@@ -1,0 +1,12 @@
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\bin\Debug\net5.0\TournamentManager.deps.json
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\bin\Debug\net5.0\TournamentManager.dll
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\bin\Debug\net5.0\ref\TournamentManager.dll
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\bin\Debug\net5.0\TournamentManager.pdb
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.csproj.AssemblyReference.cache
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.AssemblyInfoInputs.cache
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.AssemblyInfo.cs
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.csproj.CoreCompileInputs.cache
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.dll
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\ref\TournamentManager.dll
+C:\Users\tanto\RiderProjects\TournamentManager\TournamentManager\obj\Debug\net5.0\TournamentManager.pdb

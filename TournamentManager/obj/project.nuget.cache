@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sL7n6lU3wY3wOyTHVx/WOnE6/K3eSI4/mqMIpbKUrsfDiLyEps9fro3+rupkVIFhcjEx8VROhJcLRqoT3rSXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanto\\RiderProjects\\TournamentManager\\TournamentManager\\TournamentManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

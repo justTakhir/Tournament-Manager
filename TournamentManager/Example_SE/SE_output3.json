@@ -1,0 +1,24 @@
+{
+  "Table": {
+    "Groups": [
+      {
+        "Players": [
+          {
+            "Id": 9,
+            "Name": "name9",
+            "Loses": 0,
+            "SwissScore": 0
+          },
+          {
+            "Id": 4,
+            "Name": "name4",
+            "Loses": 0,
+            "SwissScore": 0
+          }
+        ]
+      }
+    ]
+  },
+  "DoubleTable": null,
+  "TournamentSystem": "SE"
+}
