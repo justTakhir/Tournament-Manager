@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
+using Newtonsoft.Json;
 
 namespace TournamentManager.Model
 {
@@ -9,6 +11,9 @@ namespace TournamentManager.Model
             Players = players;
         }
 
+        [JsonIgnore]
         public IReadOnlyList<Player> Players { get; }
+
+        public IEnumerable<int> PlayersIds => Players.Select(p => p.Id);
     }
 }

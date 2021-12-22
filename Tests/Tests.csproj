@@ -17,4 +17,7 @@
       <ProjectReference Include="..\TournamentManager\TournamentManager.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="$(ProjectDir)TestData\**" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
 </Project>

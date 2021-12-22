@@ -1,0 +1,157 @@
+{
+  "PlayersPerGroup": 3,
+  "Groups": [
+    {
+      "PlayersIds": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        6
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        4,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        3
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        4,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        0
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        3,
+        6
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        4
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        1
+      ]
+    },
+    {
+      "PlayersIds": [
+        1,
+        4
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        1
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "PlayersIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "PlayersIds": [
+        6,
+        2
+      ]
+    },
+    {
+      "PlayersIds": [
+        2,
+        5
+      ]
+    }
+  ]
+}

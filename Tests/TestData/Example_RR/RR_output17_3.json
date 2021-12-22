@@ -1,0 +1,2663 @@
+{
+  "PlayersPerGroup": 3,
+  "Groups": [
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 0,
+          "Name": "player1",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 1,
+          "Name": "player2",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 3,
+          "Name": "player4",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 4,
+          "Name": "player5",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 6,
+          "Name": "player7",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 7,
+          "Name": "player8",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 9,
+          "Name": "player10",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 10,
+          "Name": "player11",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 12,
+          "Name": "player13",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 13,
+          "Name": "player14",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 15,
+          "Name": "player16",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 16,
+          "Name": "player17",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 2,
+          "Name": "player3",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 5,
+          "Name": "player6",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 11,
+          "Name": "player12",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 14,
+          "Name": "player15",
+          "Loses": 0,
+          "SwissScore": 0
+        },
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    },
+    {
+      "Players": [
+        {
+          "Id": 8,
+          "Name": "player9",
+          "Loses": 0,
+          "SwissScore": 0
+        }
+      ]
+    }
+  ]
+}
