@@ -25,5 +25,20 @@ namespace TournamentManager.Model
             Table = null;
             DoubleTable = doubleTable;
         }
+
+        [JsonConstructor]
+        public OutputSettings(string tournamentSystem, TournamentTable table, DoubleTournamentTable doubleTable)
+        {
+            TournamentSystem = tournamentSystem;
+            Table = table;
+            DoubleTable = doubleTable;
+        }
+        
+        public OutputSettings()
+        {
+            TournamentSystem = null;
+            Table = null;
+            DoubleTable = null;
+        }
     }
 }

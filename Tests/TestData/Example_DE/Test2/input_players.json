@@ -1,4 +1,4 @@
-﻿{
+{
   "players": [
     {
       "id": 0,
@@ -72,8 +72,5 @@
       "loses": 1,
       "swissScore": 0
     }
-  ],
-  "tournamentSystem": "DE",
-  "tourIndex": 1,
-  "playersPerGroup": 3
+  ]
 }

@@ -221,22 +221,22 @@ namespace TournamentManager
             );
         }
 
-        public OutputSettings Index(InputSettings settings)
+        public OutputSettings Index(InputSettings settings, InputPlayers players)
         {
             var tournamentSystem = settings.TournamentSystem;
             switch (settings.TournamentSystem)
             {
                 case "RoundRobin":
-                    var roundRobinTable = CreateTableByRoundRobin(settings.Players, settings.PlayersPerGroup);
+                    var roundRobinTable = CreateTableByRoundRobin(players.Players, settings.PlayersPerGroup);
                     return new OutputSettings(tournamentSystem, roundRobinTable);
                 case "Swiss":
-                    var swissTable = CreateTableBySwissSystem(settings.Players, settings.PlayersPerGroup);
+                    var swissTable = CreateTableBySwissSystem(players.Players, settings.PlayersPerGroup);
                     return new OutputSettings(tournamentSystem, swissTable);
                 case "SE":
-                    var seTable = CreateTableBySingleElimination(settings.Players, settings.PlayersPerGroup);
+                    var seTable = CreateTableBySingleElimination(players.Players, settings.PlayersPerGroup);
                     return new OutputSettings(tournamentSystem, seTable);
                 case "DE":
-                    var deTable = CreateTableByDoubleElimination(settings.Players, settings.PlayersPerGroup);
+                    var deTable = CreateTableByDoubleElimination(players.Players, settings.PlayersPerGroup);
                     return new OutputSettings(tournamentSystem, deTable);
                 default:
                     throw new ArgumentOutOfRangeException(nameof(settings.TournamentSystem));

@@ -1,0 +1,26 @@
+{
+  "TournamentSystem": "DE",
+  "DoubleTable": {
+    "Top": {
+      "PlayersPerGroup": 3,
+      "Groups": [
+        {
+          "PlayersIds": [
+            8
+          ]
+        }
+      ]
+    },
+    "Bottom": {
+      "PlayersPerGroup": 3,
+      "Groups": [
+        {
+          "PlayersIds": [
+            3,
+            7
+          ]
+        }
+      ]
+    }
+  }
+}

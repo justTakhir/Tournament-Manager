@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Data;
 using System.IO;
 using System.Net;
 using Newtonsoft.Json;
@@ -42,201 +43,40 @@ namespace Tests
             );
         }
 
-        [TestCase("example")]
+        /*[TestCase("example")]
         [TestCase("example2")]
         [TestCase("example3")]
         [TestCase("example4")]
         [TestCase("example5")]
-        [TestCase("example6")]
+        [TestCase("example6")]*/
+        [TestCase("Example_DE/Test1")]
+        [TestCase("Example_DE/Test2")]
+        [TestCase("Example_DE/Test3")]
+        [TestCase("Example_DE/Test4")]
         public void Test12(string testName)
         {
-            var inputStr = File.ReadAllText(
-                $"TestData/input_{testName}.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                $"TestData/output_{testName}.json",
-                outputStr
-            );
-        }
+            var inputSettingsStr = File.ReadAllText($"TestData/{testName}/input_settings.json");
+            var inputPlayersStr = File.ReadAllText($"TestData/{testName}/input_players.json");
 
-        [Test]
-        public void DE_Test1()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_DE/DE_input1.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_DE/DE_output1.json",
-                outputStr
-            );
-        }
+            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputSettingsStr);
+            var inputPlayers = JsonConvert.DeserializeObject<InputPlayers>(inputPlayersStr);
 
-        [Test]
-        public void DE_Test2()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_DE/DE_input2.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
             var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_DE/DE_output2.json",
-                outputStr
-            );
-        }
 
-        [Test]
-        public void DE_Test3()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_DE/DE_input3.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
+            var outputSettings = tournamentManager.Index(inputSettings, inputPlayers);
             var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_DE/DE_output3.json",
-                outputStr
-            );
-        }
 
-        [Test]
-        public void DE_Test4()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_DE/DE_input4.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_DE/DE_output4.json",
-                outputStr
-            );
-        }
+            if (!Directory.Exists($"OutputData/{testName}"))
+            {
+                Directory.CreateDirectory($"OutputData/{testName}");
+            }
 
-        [Test]
-        public void Swiss_Test1()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_Swiss/Swiss_input1.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_Swiss/Swiss_output1.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void Swiss_Test2()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_Swiss/Swiss_input2.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_Swiss/Swiss_output2.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void Swiss_Test3()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_Swiss/Swiss_input3.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_Swiss/Swiss_output3.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void Swiss_Test4()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_Swiss/Swiss_input4.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_Swiss/Swiss_output4.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void SE_Test1()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_SE/SE_input1.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_SE/SE_output1.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void SE_Test2()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_SE/SE_input2.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_SE/SE_output2.json",
-                outputStr
-            );
-        }
-
-        [Test]
-        public void SE_Test3()
-        {
-            var inputStr = File.ReadAllText(
-                "TestData/Example_SE/SE_input3.json"
-            ); // my input JSON Example for A.A.
-            var inputSettings = JsonConvert.DeserializeObject<InputSettings>(inputStr);
-            var tournamentManager = new TournamentManager.TournamentManager();
-            var outputSettings = tournamentManager.Index(inputSettings);
-            var outputStr = JsonConvert.SerializeObject(outputSettings, Formatting.Indented);
-            File.WriteAllText(
-                "TestData/Example_SE/SE_output3.json",
-                outputStr
-            );
+            File.WriteAllText($"OutputData/{testName}/output.json", outputStr);
+            
+            // var forAssertStr = File.ReadAllText($"TestData/{testName}/output.json");
+            // var forAssert = JsonConvert.DeserializeObject<OutputSettings>(forAssertStr);
+            
+            // Assert.True(outputSettings == forAssert);
         }
     }
 }

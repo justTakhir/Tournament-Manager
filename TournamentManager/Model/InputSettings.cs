@@ -6,13 +6,11 @@ namespace TournamentManager.Model
     {
         public string TournamentSystem { get; } // Swiss/RoundRobin/SE/DE
         public int PlayersPerGroup { get; }
-        public IReadOnlyList<Player> Players { get; }
 
-        public InputSettings(string tournamentSystem, int playersPerGroup, IReadOnlyList<Player> players)
+        public InputSettings(string tournamentSystem, int playersPerGroup)
         {
             TournamentSystem = tournamentSystem;
             PlayersPerGroup = playersPerGroup;
-            Players = players;
         }
     }
 }
