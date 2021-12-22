@@ -20,8 +20,4 @@
     <ItemGroup>
       <None Include="$(ProjectDir)TestData\**" CopyToOutputDirectory="PreserveNewest" />
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="TestData\Example_RR" />
-    </ItemGroup>
 </Project>
